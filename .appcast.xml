@@ -13,5 +13,14 @@
             </description>
             <enclosure url="https://github.com/lokalise/sketch-plugin/releases/download/v1.1.0/Lokalise.sketchplugin.zip" sparkle:version="1.1.0"/>
         </item>
+        <item>
+            <title>Version 1.1.1</title>
+            <description>
+                - Added Symbol support for multiple text layers
+                - Added plugin information for plugin list
+                - Removed page name from key name generation
+            </description>
+            <enclosure url="https://github.com/lokalise/sketch-plugin/releases/download/v1.1.1/lokalise-sketch.sketchplugin-1.1.1.zip" sparkle:version="1.1.1"/>
+        </item>
     </channel>
 </rss>
