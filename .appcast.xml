@@ -22,5 +22,12 @@
             </description>
             <enclosure url="https://github.com/lokalise/sketch-plugin/releases/download/v1.1.1/lokalise-sketch.sketchplugin-1.1.1.zip" sparkle:version="1.1.1"/>
         </item>
+        <item>
+            <title>Version 1.1.2</title>
+            <description>
+                - Fixed key naming generation logic to use element label
+            </description>
+            <enclosure url="https://github.com/lokalise/sketch-plugin/releases/download/v1.1.2/lokalise-sketch.sketchplugin-1.1.2.zip" sparkle:version="1.1.2"/>
+        </item>
     </channel>
 </rss>
