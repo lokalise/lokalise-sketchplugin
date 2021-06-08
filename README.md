@@ -8,7 +8,7 @@ Integrate your Lokalise projects with Sketch.
 
 ### Installation
 
-1. [Download](https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.1.3/lokalise-sketch.sketchplugin-1.1.3.zip).
+1. [Download](https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.2.0/lokalise-sketch.sketchplugin-1.2.0.zip).
 2. Un-zip.
 3. Open `lokalise.sketchplugin`.
 

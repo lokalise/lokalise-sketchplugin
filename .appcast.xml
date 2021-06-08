@@ -36,5 +36,15 @@
             </description>
             <enclosure url="https://github.com/lokalise/sketch-plugin/releases/download/v1.1.3/lokalise-sketch.sketchplugin-1.1.3.zip" sparkle:version="1.1.3"/>
         </item>
+        <item>
+            <title>Version 1.2.0</title>
+            <description>
+                - Added support for plurals forms
+                - Added empty key name generation
+                - Improved screenshot generation performance and source range
+                - Added team selector for new project creation
+            </description>
+            <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.2.0/lokalise-sketch.sketchplugin-1.2.0.zip" sparkle:version="1.2.0"/>
+        </item>
     </channel>
 </rss>
