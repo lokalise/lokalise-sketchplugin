@@ -46,5 +46,12 @@
             </description>
             <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.2.0/lokalise-sketch.sketchplugin-1.2.0.zip" sparkle:version="1.2.0"/>
         </item>
+        <item>
+            <title>Version 1.2.1</title>
+            <description>
+                - Fixed related screenshot item linking
+            </description>
+            <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.2.1/lokalise-sketch.sketchplugin-1.2.1.zip" sparkle:version="1.2.1"/>
+        </item>
     </channel>
 </rss>
