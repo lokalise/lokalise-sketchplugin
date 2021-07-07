@@ -53,5 +53,13 @@
             </description>
             <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.2.1/lokalise-sketch.sketchplugin-1.2.1.zip" sparkle:version="1.2.1"/>
         </item>
+        <item>
+            <title>Version 1.3.0</title>
+            <description>
+                - Added duplicate page support
+                - Added fix for screenshot element positioning
+            </description>
+            <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.3.0/lokalise-sketch.sketchplugin-1.3.0.zip" sparkle:version="1.3.0"/>
+        </item>
     </channel>
 </rss>
