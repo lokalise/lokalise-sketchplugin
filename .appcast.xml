@@ -61,5 +61,12 @@
             </description>
             <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.3.0/lokalise-sketch.sketchplugin-1.3.0.zip" sparkle:version="1.3.0"/>
         </item>
+        <item>
+            <title>Version 1.3.1</title>
+            <description>
+                - Internal fixes
+            </description>
+            <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.3.1/lokalise-sketch.sketchplugin-1.3.1.zip" sparkle:version="1.3.1"/>
+        </item>
     </channel>
 </rss>
