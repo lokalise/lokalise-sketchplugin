@@ -1,10 +1,11 @@
+![Logo](assets/sketch+lokalise.png)
 # Lokalise plugin for Sketch
 
 [![GitHub All Releases](https://img.shields.io/github/downloads/lokalise/lokalise-sketchplugin/total?cacheSeconds=1800)](https://github.com/lokalise/lokalise-sketchplugin/releases)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/lokalise/lokalise-sketchplugin?cacheSeconds=5000)](https://github.com/lokalise/lokalise-sketchplugin/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/lokalise/lokalise-sketchplugin?cacheSeconds=1800)](https://github.com/lokalise/lokalise-sketchplugin/releases/latest)
 
-Integrate your Lokalise projects with Sketch.
+Plugin allows to exchange texts and translations between Lokalise and Sketch. Preview designs in different languages and receive valuable feedback from translators early in the process.
 
 ### Installation
 
