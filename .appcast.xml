@@ -111,5 +111,12 @@
             </description>
             <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.3.6/lokalise-sketch.sketchplugin-1.3.6.zip" sparkle:version="1.3.6"/>
         </item>
+        <item>
+            <title>Version 1.4.0</title>
+            <description>
+                - Updated for Sketch 84
+            </description>
+            <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.4.0/lokalise-sketch.sketchplugin-1.4.0.zip" sparkle:version="1.4.0"/>
+        </item>
     </channel>
 </rss>
