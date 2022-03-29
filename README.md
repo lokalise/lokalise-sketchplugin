@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/61410160/152339334-fefd5f46-b42e-4701-
 
 ### Installation
 
-1. [Download](https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.4.0/lokalise-sketch.sketchplugin-1.4.0.zip).
+1. [Download](https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.5.0/lokalise-sketch.sketchplugin-1.5.0.zip).
 2. Un-zip.
 3. Open `lokalise.sketchplugin`.
 
