@@ -125,5 +125,13 @@
             </description>
             <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.5.0/lokalise-sketch.sketchplugin-1.5.0.zip" sparkle:version="1.5.0"/>
         </item>
+        <item>
+            <title>Version 1.6.0</title>
+            <description>
+                - Fixed key naming pattern not being applied on settings update
+                - Added push settings save
+            </description>
+            <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.6.0/lokalise-sketch.sketchplugin-1.6.0.zip" sparkle:version="1.6.0"/>
+        </item>
     </channel>
 </rss>
