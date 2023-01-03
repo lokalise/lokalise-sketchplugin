@@ -133,5 +133,12 @@
             </description>
             <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.6.0/lokalise-sketch.sketchplugin-1.6.0.zip" sparkle:version="1.6.0"/>
         </item>
+        <item>
+            <title>Version 1.6.1</title>
+            <description>
+                - Fixed issue that plugin didn't work on Sketch version 62
+            </description>
+            <enclosure url="https://github.com/lokalise/lokalise-sketchplugin/releases/download/v1.6.1/lokalise-sketch.sketchplugin-1.6.1.zip" sparkle:version="1.6.1"/>
+        </item>
     </channel>
 </rss>
